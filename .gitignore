@@ -1,0 +1,10 @@
+# Ignore API keys and secrets
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore MLflow logs or outputs
+output_answer.txt
+mlruns/
